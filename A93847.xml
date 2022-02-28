@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A diurnall of true proceedings of our armies at Sherbourne, since their first coming there, and their happy issues related. Shewing the goodnesse of God in preserving the courage of those that stand for King and Parliament against the cavalliers, and their adherents. Desired by many to be published, being the last true newes. And of the battell there fought.</title>
+            <author>Sampson, Lat.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93847</idno>
+            <idno type="STC">Wing S539</idno>
+            <idno type="STC">Thomason E116_48</idno>
+            <idno type="STC">ESTC R10493</idno>
+            <idno type="EEBO-CITATION">99858852</idno>
+            <idno type="PROQUEST">99858852</idno>
+            <idno type="VID">110911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110911)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E116[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A diurnall of true proceedings of our armies at Sherbourne, since their first coming there, and their happy issues related. Shewing the goodnesse of God in preserving the courage of those that stand for King and Parliament against the cavalliers, and their adherents. Desired by many to be published, being the last true newes. And of the battell there fought.</title>
+                  <author>Sampson, Lat.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Luke Norton for Benjamin Allen in Popes head Alley.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 14, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Lat. Sampson.  cf. BM.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherborne (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110911:1" rendition="simple:additions"/>
+            <p>A DIVRNALL, OF True Proceedings OF OVR ARMIES AT Sherbourne, Since their firſt coming there, and their happy iſſues related.</p>
+            <p>Shewing the goodneſſe of God in preſerving the courage of thoſe that ſtand for King and Parliament againſt the <hi>Cavalliers,</hi> and their Adherents.</p>
+            <p>Deſired by many to be publiſhed, being the laſt true newes. And of the Battell there fought.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Luke Norton</hi> for <hi>Beniamin Allen</hi> in Popes head Alley. Septemb. 14. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:110911:2"/>
+            <pb n="1" facs="tcp:110911:2"/>
+            <opener>
+               <salute>Loving Cozen,</salute>
+            </opener>
+            <p>YOur Letters, as alſo my Piſtols I received ye<g ref="char:EOLhyphen"/>ſterday at my returne home from the Ar<g ref="char:EOLhyphen"/>my, and give you thankes for your carefull ſending of them. Now to give you ſome touch of our proceedings in theſe parts. I will relate it unto you in way of a diurnall; Firſt, ther<g ref="char:EOLhyphen"/>fore on Sunday the 25. of <hi>Auguſt</hi> the Earle of <hi>Bedford</hi> came into this County, where the Gentlemen of this County met him, and attended him that night to <hi>Wells,</hi> where they ſtayd till Saterday following, the Countrey (I meane) the Traine-Bands, and Voluntiers reſorted unto him in great numbers: on Saterday hey marcht from <hi>Wells</hi> to <hi>Glaſſenbury</hi> where they ſtayd till Tueſday, on Tueſday they marcht to <hi>Elcheſter,</hi> where they ſtayed Wedneſday being Faſt day, and on Thurſday marcht to <hi>Evell,</hi> and on Friday marcht to the hill where we lay that night, not doing any thing, onely a few of the Cava<g ref="char:EOLhyphen"/>leirs ſhawing themſelves at <hi>Sherborne</hi> Townes end in a bravado, a ſquadron of Major <hi>Prittys</hi> troope (in whoſe company I entred my ſelfe and two more of Cozen <hi>Aſhes</hi> men well horſt) rode downe to them, but they retreated backe into the Towne, not changing one Bullet; on Saterday morning our forces horſe and foot were drawn downe to the townes end, as alſo all our Ordnance which were about eight or nine, in our march as we paſt by the Caſtle, they at the Caſtle let fly eight or nine peeces of Ordnance at us, two of which were let fly againſt out troope we being the firſt troope in the field, but (praiſed be God) they fell ſhort and did us no hurt, but the bul<g ref="char:EOLhyphen"/>lets fell ſo neere us that we tooke them up. Our Compa<g ref="char:EOLhyphen"/>nies
+<pb n="2" facs="tcp:110911:3"/>being come up, ſome foot of ours were drawne up into the lane that enters the Towne, and our troope to enter the towne, my place was the right hand file of the Coronet in the front of the battle: The Cavalliers had placed ſtore of Muſquetiers on both ſides of the lane un<g ref="char:EOLhyphen"/>der hedges and buſhes which play very thick upon us, the bullets flying very thick about our eares, they being under covert, and we lying an open marke unto them, our Gun<g ref="char:EOLhyphen"/>ners began to play with a ſmall braſſe peece upon the Towne, what ſervice they did we know no; the Caval<g ref="char:EOLhyphen"/>liers grew ſo faſt upon us, having that great advantage, that we were forc'd to draw back our pecce of Ordnance higher upon the hill, and our troope to retreat higher, ha<g ref="char:EOLhyphen"/>ving been halfe an houre in this great danger, not one of us (praiſed be God) hurt, the firſt man that fell in this skirmiſh of ours was one that was ſhot by his next fel<g ref="char:EOLhyphen"/>low, who ſhot him through the back.</p>
+            <p>Now was our troope relieved and freſh men to ſupply, playing on both ſides very ſharp and quick, continuing till Evening; on our fide we had not above ſixe kild and hurt, one of which ther were kill I was a ſhearman of Co<g ref="char:EOLhyphen"/>zen <hi>Aſhes,</hi> who looking over a little wall after hee had diſcharged his Musket, was ſhot through the head, what hurt was on the enemies ſide we cannot learne; at eve<g ref="char:EOLhyphen"/>ning, at the cloſure of the night, our troop was drawne up again to enter the Town, which had been a great haz<g ref="char:EOLhyphen"/>zard to us all the enemy being in houſes, and we open to their marke: And in the darke night we as likely to ſhoot our ſelves as our enemies, this was at laſt conſidered of, and after wee had ſitten at the lanes end two or three houres, were brought back again to our Camp.</p>
+            <p>This evening our greateſt pieces (which were not very bigge) began to play at the Caſtle, diſcharged nine pieces, which we conceived had done good ſervice againſt the Caſtle, we could not perceive the Caſtle, for it was in the dark of the evening; but the next morning we could per<g ref="char:EOLhyphen"/>ceive
+<pb n="3" facs="tcp:110911:3"/>no ſervice that they had done. Sunday morning we removed further upon the hill over againſt the Caſile, and began to entrench, ſome few muſquetiers on both ſides making light skirmiſhes one againſt the other; and ſome few of our horſe ſcouting out, but nothing done worth the writing. I had now watched three nights together. Thurſday night, Friday night, and Saturday, and ſitting continually upon my horſe, was ſo tired, that I could not hold up my head any longer, ſo this night I went with my couſin <hi>Samuel Aſh</hi> to <hi>Evell;</hi> three miles from the Camp, and on Munday we returned to the Camp againe, where nothing more was done.</p>
+            <p>Our country-men with this long and tedious march grew very weary, &amp; abundance of them ſtole a way from the Camp, ſome of them throwing their armes away into the corne fields, the better to eſcape home; ſo that our Army now grew l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe and leſſe, and our m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n very weary and tired. I offered my ſelfe on Saturday <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pence to a boy to fetch me a draught of wat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Caval<g ref="char:EOLhyphen"/>liers policie, for they were warme, and their bellies full, lying in their beds and they knew well, that our country fellowes that were wont to have their bellies ful of good beefe, and then to their beds, would not long endure hun<g ref="char:EOLhyphen"/>ger and cold on a bleak hill.</p>
+            <p>On Tueſday it was concluded by our Councell of Warre, that our Army ſhould retird that night to <hi>E<g ref="char:EOLhyphen"/>vell,</hi> from whence my Lord with what forces he thought good would march to <hi>Dorcheſter,</hi> there to remaine till hee had ſent to the Parliament, and as I heare, to have ſome of your Generalls forces to come hither. Wee came to <hi>Evell</hi> that night, and on Wed<g ref="char:EOLhyphen"/>neſday I came homewards in company of Captaine <hi>Barnards</hi> foot, We came Wedneſday night to <hi>Elcheſter</hi> now let me tell you of a paſſage that happened on Wed<g ref="char:EOLhyphen"/>ſday at evening after I was come from <hi>Evel:</hi> The Caval<g ref="char:EOLhyphen"/>liers with a great force of horſe and 3. companies of foot
+<pb n="4" facs="tcp:110911:4"/>came from <hi>Sherbourn,</hi> to the hill over <hi>Evell,</hi> about a mile from the towne; whoſe unexpected appear<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce put the town in a great hu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly Burly: But after our men had pla<g ref="char:EOLhyphen"/>ced their Ordnance for the ſecuritie of the town and ſtrengthened them with men; Captain <hi>Askew</hi> and his troop of horte and Captain Thomſon and his troop, with twenty musquettiers attending each troope were ſent to the hill, Captain <hi>Askew</hi> took one way up the hill, and Captaine <hi>Thomſon</hi> another, Captain <hi>Askew</hi> was the firſt who with his ſmall troope charged them ſo couragiouſly that he went through and through them, killed as is re<g ref="char:EOLhyphen"/>ported) eight of them, and after diſcharging Carbines and piſtols fell to worke with their ſwords and ſo re<g ref="char:EOLhyphen"/>treated: Captain <hi>Askew</hi> loſt in this conflict three of his men; by this time Captain <hi>Thomſon</hi> charged them on the other ſide and preſently routed them, they taking themſelves to their horſe heels, the three captaines of their foot, young Lunsford fled away upon his horſe; Captain <hi>Huſſy</hi> kild, and the third Captaine tak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n priſo<g ref="char:EOLhyphen"/>ner: Our men fell upon their foot, killed betwixt thirtie and fourtie; took many priſoners, and but that the night fell dark upon them had cut them all off: And our horſe followed their horſe home to <hi>Sherborne</hi> townes end, We heare that Sir <hi>Ralph Hopton</hi> is hurt, one of the <hi>Bartlets</hi> killed, with ſome other of their Commanders: This hath a little cooled their Inſolencies. Thus much in haſte for newes in theſe parts.</p>
+            <closer>
+               <dateline>Freſhford, <date>10. Sep<g ref="char:EOLhyphen"/>tembris, 1642.</date>
+               </dateline>
+               <signed>Your loving Couſin till death, <hi>Lat. Sampſon.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:110911:4"/>
+            <opener>
+               <dateline>From Dorcheſter <date>Septembris, 10. 1642.</date>
+               </dateline>
+            </opener>
+            <head>From an Alderman to his Friend in London.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ere in the Country we dare not ſend ſeven miles abroad for the <hi>Cavalliers,</hi> who at <hi>Sherbourn</hi> do pillage rob, and kill like the Sons of hell; but they were met withall this weeke to the purpoſe, by ſome London Troopers; and our <hi>Dorcheſter</hi> Troopers. My Lord of <hi>Bedford</hi> finding the Caſtle to be a piece of grea<g ref="char:EOLhyphen"/>ter ſtr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngth than hee imagined, and ſeeing his trained band men forſake him, ſo that of ſix or ſeven thouſand, he had but 1500. left within three daies, not that they de<g ref="char:EOLhyphen"/>ſerted the country, but being men that have wives and eſtates, were loth to loſe or hazard them in an obſcure way, my Lord reſolved to raiſe the ſiege, and they mar<g ref="char:EOLhyphen"/>ched to a Town called <hi>Evell,</hi> within foure miles of <hi>Sher<g ref="char:EOLhyphen"/>borne.</hi> There was loſt ſeven or eight men of a ſide at the ſiege, very few more or leſſe that we can learne: I am ſure no more of our ſide on Wedneſday towards eve<g ref="char:EOLhyphen"/>ning, while my Lord of <hi>Bedford</hi> and the ſouldiers were at a Sermon in <hi>Evell</hi> at the Funerall of ſome ſouldiers lately killed. The <hi>Sherborn</hi> Lords and <hi>Cavalliers</hi> having that day received into their aide an hundred horſe, and two hundred foot from Maſter <hi>Rogers,</hi> one of our high knights, entertained them with triumph at the de<g ref="char:EOLhyphen"/>parture of my Lord of <hi>Bedfords</hi> forces, contemning the Parliament, came in a bravado, pitching themſelves in battell array with 400. horſe, and 200. muſquetiers in ambuſh at the top of the hill before <hi>Evell</hi> and <hi>Sherborne</hi> middle way, which the London troops hearing of, two of their troops &amp; our <hi>Dorcheſter</hi> troops lay ready to aſſault
+<pb n="6" facs="tcp:110911:5"/>the enemies, the other Troopes abiding at the end of the towne of <hi>Evell</hi> fearing the <hi>Cavalleirs</hi> would ſurpriſe the towne, our men have about one hundred muſquetieres and one hundred and fourtie horſe: and marched while bullets flew as thick as haile about their ears, they aſſault<g ref="char:EOLhyphen"/>ed the <hi>Cavalleirs</hi> while they ſpent their ſhot and came within ſword point, cutting and ſlaſhing without either pitie or mercy the great r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bels without reſpect of perſon; but the night came on elſe they in likely-hood had killed and taken every man. God caſt upon the <hi>Cavalleirs</hi> a ſpirit of fea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fulneſſe that they, ranne like miſe into every hole the musquetiers threw downe their Armes and fied ſo that our men took about twentie men in ambuſh, with ſome chief Commanders and killed many, amongſt whom were Colonell <hi>Lunsford</hi> and the Lord <hi>Paulet</hi> cre<g ref="char:EOLhyphen"/>dibly reported to be ſlain: the next morning were twenty eight dead bodies found lying on the ground beſides thoſe that were carried away in the night by the Rebels, there were lanth<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rns and candles ſeen ſear<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing for dead bodies all the night at the <hi>Cavalliers</hi> flying away as they did like mad men, they ſaid hold your hands for you have ſhed much noble blood: Of our ſide were ſlain five men, and two or three taken priſoners, and ſome more likely wounded. The <hi>Cavalliers</hi> were heard to ſay at their com<g ref="char:EOLhyphen"/>ing home, The <hi>Round-heads</hi> did fight more like Divels than men, and ſwore that they thought they had loſt halfe their men. Of 200. muſquetiers there returned but 18. in<g ref="char:EOLhyphen"/>to the Caſtle the firſt night: This newes is certaine, my man was in the fight; only it is not certaine whether my Lord <hi>Paulet</hi> is ſlain, or dangerouſly hurt.</p>
+            <p>
+               <hi>I deſire you to take notice of one paſſage, That a <hi>Cavallier</hi>being beaten off his horſe, cried out for mercy, for they had a bad cauſe: But one of Captain <hi>Askews</hi> men being dead<g ref="char:EOLhyphen"/>ly wounded, called to his fellowes to goe on, for they had a good cauſe: We ſee conſcience in dying men wil ſpeak truth.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
